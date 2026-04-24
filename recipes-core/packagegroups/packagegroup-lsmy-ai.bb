@@ -12,4 +12,5 @@ RDEPENDS:${PN} = "\
     nnstreamer-face-mesh \
     nnstreamer-crop \
     nnstreamer-crop-view \
+    nnstreamer-fatigue-eval \
 "
