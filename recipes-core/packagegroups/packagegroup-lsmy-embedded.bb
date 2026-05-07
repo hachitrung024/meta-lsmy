@@ -11,4 +11,5 @@ RDEPENDS:${PN} = "\
     python3-gpiod \
     i2c-tools \
     dht20 \
+    dht20-overlay \
 "
